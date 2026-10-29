@@ -1,0 +1,6 @@
+{
+  "name": "DynaBlocks 2004 - Classic 3D Sandbox & Physics Game",
+  "description": "Step into DynaBlocks, the legendary 2004 Roblox precursor. Experience classic physics, studded brick building, rocket demolition, retro avatars, and sandbox mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
